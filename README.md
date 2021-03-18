@@ -1,3 +1,11 @@
+## 目前还是一个空主页，因为懒得写
+
+
+计划使用huge + github page实现，目前的进度是停留在想一想的程度，因为没时间。
+
+我就是先试试，说不定哪天发现真的不想弄了，可能会直接删除掉。
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/AlpacaKnight/AlpacaKnight.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
